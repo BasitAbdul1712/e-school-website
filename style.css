@@ -1,0 +1,52 @@
+.logo{
+width: 150px;
+height: 40px;
+
+}
+.color-me{
+color: black;
+}
+.bg-color{
+    background-color:#F0FFF0 ;
+}
+.carousel-item{
+    padding: 20px 80px;
+}
+.col-md-7{
+    padding: 1px 20px; 
+    border: 20px; 
+    border-color: red;
+}
+.color-me-2{
+    color: white;
+    background-color: #21B573  ;
+    padding: 12px 28px;
+    border-radius: 33px;    
+}
+.color-2{
+    color:#21B573;
+}
+.first-line{
+    color: rgb(240, 40, 40);
+}
+.paragraph{
+    color: #6C6B6B;
+}
+.get-started-button{
+    background-color: #21B573;
+    color: #fff;
+    border: none;
+    border-radius: 33px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.bold{
+    width: 405px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.ICON img{
+    width: 100px;}
