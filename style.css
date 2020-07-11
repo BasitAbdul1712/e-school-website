@@ -1,3 +1,6 @@
+.first{
+    padding-left: 10px;
+}
 .logo{
 width: 150px;
 height: 40px;
@@ -10,13 +13,9 @@ color: black;
     background-color:#F0FFF0 ;
 }
 .carousel-item{
-    padding: 20px 80px;
+padding: 10px 120px;
 }
-.col-md-7{
-    padding: 1px 20px; 
-    border: 20px; 
-    border-color: red;
-}
+
 .color-me-2{
     color: white;
     background-color: #21B573  ;
@@ -43,10 +42,59 @@ color: black;
 .bold{
     width: 405px;
 }
-.card{
+
+.topic{
+    padding-top: 10px;
+}
+.topic img{
+    height: 50px;
+}
+.students{
     border: none;
     border-radius: 10px;
     box-shadow: 5px 5px 10px lightgray;
 }
-.ICON img{
-    width: 100px;}
+.ICON{
+    padding: 30px;
+    
+}
+.book{
+    padding: 0px 70px;
+    
+    
+}
+.Books{
+    background-color: #21B573;
+}
+.calender img{
+    width: 18px;
+}
+.row{
+    padding-top: 40px;
+}
+.online{
+    padding: 40px;
+
+}
+.top{
+    border-radius: 10px;
+}
+.middle{
+    border: none;
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.man{
+    padding: 0px 110px;
+   
+}
+.links{
+    background-color: black;
+    color: white;
+    padding: 5px 100px;
+    margin-top: 50px;
+}
+footer{
+    text-align: center;
+    padding-top: 40px;
+}
